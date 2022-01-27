@@ -17,7 +17,7 @@ La détection de mise en page utilise l'outil Layout Parser décrit sur https://
 
 ## Utilisation
 
-1. Ouvrir le carnet dans l'interface Google Colab [![Open In Colab](colab.svg)](https://colab.research.google.com/github/paulbin501/t1/blob/main/t1.ipynb) et se connecter à un compte Google Drive ?????????????????????
+1. Ouvrir le carnet dans l'interface Google Colab et se connecter à un compte Google Drive 
 
 2. Lancer la première cellule et cliquer sur le lien généré pour synchroniser un compte Drive si demandé.
 Cette cellule importe les bibliothèques nécessaires à l'utilisation du carnet, et connecte un compte Drive.
@@ -43,5 +43,3 @@ Cette cellule importe les bibliothèques nécessaires à l'utilisation du carnet
 	- spécifier le chemin vers une page d'un document au format jpg
 	- préciser le seuil du score au dessus duquel un objet est associé à une classe (un décimal entre 0 et 1, 0 ou vide pour ne pas filtrer)
 	- lancer la cellule 
-
-Consulter un tutoriel sur l'utilisation générale des carnets Colab (?????????????????????????)
